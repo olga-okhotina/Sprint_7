@@ -1,1 +1,0 @@
-{"uuid":"b1214f9f-ec62-4c69-bf50-7f6dbf570647","name":"В тело ответа возвращается список заказов","children":["499398fd-696f-447b-8d59-acc1ef4ac2c1"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775919789043,"stop":1775919789043}],"afters":[],"start":1775919789031,"stop":1775919802162}
